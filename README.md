@@ -6,7 +6,9 @@
 T1
 
 ## Members
-나해란 안형주 장영진 장효정
-
+[나해란](https://github.com/Nahaeran)
+[안형주](https://github.com/HyungjooAhn1)
+[장영진](https://github.com/yjjangg)
+장효정
 
 
