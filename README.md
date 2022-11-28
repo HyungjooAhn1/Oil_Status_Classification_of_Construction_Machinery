@@ -10,5 +10,6 @@ T1
 [안형주](https://github.com/HyungjooAhn1)
 [장영진](https://github.com/yjjangg)
 장효정
+장효정
 
 
