@@ -13,5 +13,7 @@ T1
 [장영진](https://github.com/yjjangg)
 [장효정](https://github.com/hfairyz)
 
+## 최종 결과
+**26등** (총 517팀)
 
 
