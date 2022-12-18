@@ -16,3 +16,21 @@ T1 ([나해란](https://github.com/Nahaeran),
 **26등** (총 517팀)
 
 
+
+
+## Significance
+1. Tried many Experiments to handle Imbalanced Data in Regression
+
+2. To prevent information loss, we made our own solution using all data
+
+3. We found important features that influences Abnormal status in Diagnostic Environment
+
+4. Our Model and Strategy can contribute to Construction Machinery Intelligence
+
+## Limitations
+
+1. Not enough Domain Knowledge -> Preprocess Missing Value
+
+2. Focused more on Regression, better classification model could make better score
+
+3. Didn't try Deep Learning Model
