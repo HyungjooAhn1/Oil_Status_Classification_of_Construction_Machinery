@@ -16,6 +16,13 @@ T1 ([나해란](https://github.com/Nahaeran),
 **26등** (총 517팀)
 
 
+## Student Model Architecture
+### Step 1
+![1](https://user-images.githubusercontent.com/101160593/208299149-9f842ce8-8513-48f5-984e-3e8e499f6bf1.png)
+
+### Step 2
+
+
 
 
 ## Significance
