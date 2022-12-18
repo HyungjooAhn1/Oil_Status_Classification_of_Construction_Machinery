@@ -12,18 +12,19 @@ T1 ([나해란](https://github.com/Nahaeran),
 [장영진](https://github.com/yjjangg),
 [장효정](https://github.com/hfairyz))
 
-## Submission Result
-**26등** (총 517팀)
+## Modeling
+### Teacher Model
 
 
-## Student Model Architecture
-### Step 1
+### Student Model Architecture
+#### Step 1
 ![1](https://user-images.githubusercontent.com/101160593/208299149-9f842ce8-8513-48f5-984e-3e8e499f6bf1.png)
 
-### Step 2
+#### Step 2
+![2](https://user-images.githubusercontent.com/101160593/208299319-9fe00a7d-5ef6-4365-be61-a73084a63c1e.png)
 
-
-
+## Submission Result
+**26등** (총 517팀)
 
 ## Significance
 1. Tried many Experiments to handle Imbalanced Data in Regression
