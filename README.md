@@ -27,7 +27,8 @@
 ![2](https://user-images.githubusercontent.com/101160593/208299319-9fe00a7d-5ef6-4365-be61-a73084a63c1e.png)
 
 ## 5. 제출 결과
-**26등** (총 517팀)
+![1672362649105982](https://user-images.githubusercontent.com/101160593/210036302-71cd3f62-6de0-4778-b92d-0b8da4c89bf8.png)
+
 
 ## 6. 의의
 1. Tried many Experiments to handle Imbalanced Data in Regression
